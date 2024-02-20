@@ -9,7 +9,7 @@ Advantage of Namespace to avoid name collision.
 2. A namespace is designed to overcome this difficulty and is used as additional information to differentiate similar functions, classes, variables etc. with the same name available in different libraries. 
 3. The best example of namespace scope is the C++ standard library (std) where all the classes, methods and templates are declared. Hence while writing a C++ program we usually include the directive using namespace std;
 
-Defining a Namespace:
+**Defining a Namespace:**
 
 A namespace definition begins with the keyword namespace followed by the namespace name as follows:
 
