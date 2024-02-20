@@ -13,14 +13,14 @@ Advantage of Namespace to avoid name collision.
 
 A namespace definition begins with the keyword namespace followed by the namespace name as follows:
 
-'''
+```cpp
 namespace  namespace_name 
 {
     // code declarations i.e. variable  (int a;)
     method (void add();)
     classes ( class student{};)
 }
-'''
+```
 
 It is to be noted that, there is no semicolon (;) after the closing brace.
 To call the namespace-enabled version of either function or variable, prepend the namespace name as follows:
