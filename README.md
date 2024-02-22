@@ -13,15 +13,9 @@ Advantage of Namespace to avoid name collision.
 
 A namespace definition begins with the keyword namespace followed by the namespace name as follows:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ```cpp
-=======
-```
->>>>>>> ebe7f53 (In class updates)
-=======
-```cpp
->>>>>>> origin/main
+
 namespace  namespace_name 
 {
     // code declarations i.e. variable  (int a;)
