@@ -22,6 +22,8 @@ int main()
 	// outside the namespace using the scope
 	// operator ::
 	cout << first::val << '\n';
+	cout << val << '\n';
+	cout << ::val << '\n';
 
 	return 0;
 }
